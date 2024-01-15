@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/VISHNU-ARAVIND-99/zomoto_web_scraping/main/out
 I scraped 1166 restaurant data u can see in above link.
 
 
-## Following is the example of data of one restaurant :
+## Following is the example data of one restaurant :
 
     {"restaurant name": "KFC",
     "restaurant_zomoto_link": "https://www.zomato.com/chennai/kfc-2-park-town/",
