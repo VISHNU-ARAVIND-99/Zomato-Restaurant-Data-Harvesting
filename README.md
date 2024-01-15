@@ -2,7 +2,7 @@
 
 main.py file contain code which uses selenium webdriver & BeautifulSoup to scrap restaurant data from Zomoto website in Json,
 
-https://raw.githubusercontent.com/VISHNU-ARAVIND-99/zomoto_web_scraping/main/output.json
+https://raw.githubusercontent.com/VISHNU-ARAVIND-99/Zomato-Restaurant-Data-Harvesting/main/output.json
 
 I scraped 1166 restaurant data u can see in above link.
 
