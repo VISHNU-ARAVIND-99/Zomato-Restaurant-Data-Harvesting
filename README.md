@@ -1,4 +1,4 @@
-# zomoto_web_scraping
+# Zomato Restaurant Data Harvesting
 
 main.py file contain code which uses selenium webdriver & BeautifulSoup to scrap restaurant data from Zomoto website in Json,
 
