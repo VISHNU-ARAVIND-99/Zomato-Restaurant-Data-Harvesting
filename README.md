@@ -5,6 +5,7 @@ main.py file contain code which uses selenium webdriver & BeautifulSoup to scrap
 ## Following Is The Example of data scraped :
 
 https://raw.githubusercontent.com/VISHNU-ARAVIND-99/zomoto_web_scraping/main/output.json
+
 I scraped 1166 restaurant data u can see in above link.
 
 {
