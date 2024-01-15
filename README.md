@@ -8,11 +8,11 @@ https://raw.githubusercontent.com/VISHNU-ARAVIND-99/zomoto_web_scraping/main/out
 
 I scraped 1166 restaurant data u can see in above link.
 
+
+
 {
     "restaurant name": "SS Hyderabad Biryani",
-    
     "restaurant_zomoto_link": "https://www.zomato.com/chennai/ss-hyderabad-biryani-parrys/",
-    
     "description": "Biryani, Seafood, North Indian, Mughlai, Rolls, Chinese, Kebab",
     "location": "Parrys, Chennai",
     "opening_time": "11am – 10:30pm (Today)",
